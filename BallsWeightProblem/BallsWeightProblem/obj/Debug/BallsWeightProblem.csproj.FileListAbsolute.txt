@@ -1,0 +1,7 @@
+C:\Users\MY\source\repos\BallsWeightProblem\BallsWeightProblem\bin\Debug\BallsWeightProblem.exe.config
+C:\Users\MY\source\repos\BallsWeightProblem\BallsWeightProblem\bin\Debug\BallsWeightProblem.exe
+C:\Users\MY\source\repos\BallsWeightProblem\BallsWeightProblem\bin\Debug\BallsWeightProblem.pdb
+C:\Users\MY\source\repos\BallsWeightProblem\BallsWeightProblem\obj\Debug\BallsWeightProblem.csprojAssemblyReference.cache
+C:\Users\MY\source\repos\BallsWeightProblem\BallsWeightProblem\obj\Debug\BallsWeightProblem.csproj.CoreCompileInputs.cache
+C:\Users\MY\source\repos\BallsWeightProblem\BallsWeightProblem\obj\Debug\BallsWeightProblem.exe
+C:\Users\MY\source\repos\BallsWeightProblem\BallsWeightProblem\obj\Debug\BallsWeightProblem.pdb
